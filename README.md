@@ -5,7 +5,6 @@
 </h3>
 <hr width="100%" color="grey">
 <div align='center'>
-  <img src="https://www.expert.ai/wp-content/uploads/2022/03/Machine-Learning-Definition.jpg" Height="500px"/>
 </div>
 <br/>
 
