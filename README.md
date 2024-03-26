@@ -14,8 +14,9 @@
 <br>
 Frontend Web Developer | Artifical Intelligence and machine Learning Enthusiast
 <br/>
-__
-__
+
+____
+
 I'm a passionate web developer with a keen interest in artificial intelligence and machine learning. I'm currently interning at the Indian Institute of Technology Mandi as a research intern, focusing on applying machine learning techniques for object detection in autonomous vehicles.Let's connect and explore how we can leverage machine learning to unlock new possibilities for your organization.
 
 ____
