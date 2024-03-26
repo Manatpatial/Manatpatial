@@ -8,7 +8,7 @@
 </div>
 <br/>
 
-![I am GitHub Readme Generator's creator](https://www.expert.ai/wp-content/uploads/2022/03/Machine-Learning-Definition.jpg)
+![I am GitHub Readme Generator's creator](https://www.springboard.com/blog/wp-content/uploads/2022/01/is-machine-learning-hard-a-guide-to-getting-started-scaled-1-scaled.jpeg)
 
 <br>
 Frontend Web Developer | Artifical Intelligence and machine Learning Enthusiast
