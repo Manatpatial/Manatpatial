@@ -5,10 +5,10 @@
 </h3>
 <hr width="100%" color="grey">
 <div align='center'>
+    <img src="" alt="https://www.springboard.com/blog/wp-content/uploads/2022/01/is-machine-learning-hard-a-guide-to-getting-started-scaled-1-scaled.jpeg)" Height="400px"/>
 </div>
 <br/>
 
-![I am GitHub Readme Generator's creator](https://www.springboard.com/blog/wp-content/uploads/2022/01/is-machine-learning-hard-a-guide-to-getting-started-scaled-1-scaled.jpeg)
 
 <br>
 Frontend Web Developer | Artifical Intelligence and machine Learning Enthusiast
