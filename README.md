@@ -5,7 +5,7 @@
 </h3>
 <hr width="100%" color="grey">
 <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=medipanshu&style=flat-square&color=blue" alt=""/>
+  <img src="https://www.expert.ai/wp-content/uploads/2022/03/Machine-Learning-Definition.jpg"/>
 </div>
 <br/>
 
