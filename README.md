@@ -8,6 +8,7 @@
     <img src="" alt="https://www.springboard.com/blog/wp-content/uploads/2022/01/is-machine-learning-hard-a-guide-to-getting-started-scaled-1-scaled.jpeg)" Height="400px"/>
 </div>
 <br/>
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 <br>
