@@ -9,7 +9,7 @@
 </div>
 <br/>
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://www.expert.ai/wp-content/uploads/2022/03/Machine-Learning-Definition.jpg)
 
 <br>
 Frontend Web Developer | Artifical Intelligence and machine Learning Enthusiast
