@@ -9,7 +9,7 @@
 </div>
 <br/>
 
- <img src="/Manat Patial.png">
+![ML banner](/Untitled design.png)
 <br>
 Frontend Web Developer | Artifical Intelligence and machine Learning Enthusiast
 <br/>
