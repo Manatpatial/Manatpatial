@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Manatpatial&style=flat-square&color=blue" alt=""/>
 </div>
 
-![Ml Banner](./Assets/Untitled design.png)
+![Ml Banner](./Assets/banner.png)
 <br/>
 <br>
 Frontend Web Developer | Artifical Intelligence and machine Learning Enthusiast
